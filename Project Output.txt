@@ -1,0 +1,3 @@
+Output:
+  MSE: 100000
+  R-squared: 0.8
